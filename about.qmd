@@ -43,6 +43,7 @@ The advantage of this approach is to capture the decision about why a material i
 
 ## What design principles we follow for these lessons?
 
+- A [tutorial documentation](https://documentation.divio.com/tutorials/) format
 - Easy to consume in a self-paced manner, 
 - Be self-explanatory, 
 - Show common mistakes and common misconceptions, and 
