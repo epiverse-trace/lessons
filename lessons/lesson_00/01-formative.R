@@ -155,3 +155,8 @@ epinow(
 #' what is the added value of consider them?
 #' difference when no certainty about date of infection
 #' of include the uncertainty of date of infection from report of case date only
+
+
+# FA04 --------------------------------------------------------------------
+
+#' how to create a susceptibility matrices for finalsize given a scenario?
