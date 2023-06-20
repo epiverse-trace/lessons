@@ -1,0 +1,92 @@
+---
+title: "About"
+---
+
+## What will you learn?
+
+- ...
+
+## Who are these lessons for?
+
+We thought about Lucia, Patricia, and Anya as learner personas in designing the contents of this training:
+
+- [Lucia](https://epiverse-trace.github.io/personas/lucia-outbreaks.html), a Field Epidemiologist in a National Health Agency that uses R for data cleaning, plotting and automated reports.
+
+- [Patricia](https://epiverse-trace.github.io/personas/patricia-discoverer.html), A PhD student learning to use R and analyse Outbreak data for her research project.
+
+- [Anya](https://epiverse-trace.github.io/personas/anya-academica.html), a Professor who needs ready-to-use teaching material for her research and to pass on to students.
+
+## What design process we follow for these lessons?
+
+- Follow techtogether [design process](https://teachtogether.tech/en/index.html#s:process)
+    - Identify the learner persona
+        - Their needs are took into account during the whole creation process 
+    - Identify the desired data analysis results
+        - Define the learning objectives
+    - Determine the building blocs
+        - Draft a concept map
+        - Write the summative assessment
+        - Write the formative assessments
+    - Plan learning experiences and instructor
+        - Create visuals to explain related concepts
+            - vision gathers the most information in the short term memory
+        - Use callout blocks for complementary info
+            - Refer to existing external or internal materials
+                - reconlearn
+                - appliedepi
+                - graphnet
+                - rstudio
+                - stackoverflow
+                - epiverse-trace github issues
+
+The advantage of this approach is to capture the decision about why a material is the way it is.
+
+## What design principles we follow for these lessons?
+
+- Easy to consume in a self-paced manner, 
+- Be self-explanatory, 
+- Show common mistakes and common misconceptions, and 
+- Write practice exercises with diagnostic power for those common misconceptions.
+- Show common policy questions connecting data inputs, analysis tasks, and data outputs.
+- Show the Epiverse-TRACE pipeline approach
+- Order the content to [promote motivation](https://teachtogether.tech/en/index.html#s:motivation-authentic) 
+    - first the less complex (less time to master) and most useful once mastered
+- Facilitate the [material maintainability](https://teachtogether.tech/en/index.html#s:process-maintainability)
+    - it should be cheaper to update than to replace it, depending on four factors:
+        - good documentation of the course design
+        - easy for collaborators to collaborate technically (GitHub or GoogleDocs)
+        - will of people to collaborate (train people to have the tools to collab)
+        - usefulness for sharing it! (look at rstudio primers and carpentries)
+- Follow datasciencebox [five design principles](https://datasciencebox.org/01-design-principles.html)
+    - start with the cake
+    - cherish day one
+    - skip baby steps
+    - hide the veggies
+    - leverage the ecosystem
+- Follow [carpentries design principles](https://carpentries.org/blog/2020/08/lesson-template-design/#design-principles-for-the-next-iteration-of-the-carpentries-lesson-template)        
+
+## What is not included in this material?
+
+Topics that are out of the scope of these lessons include:
+
+- How to use Git and GitHub to contribute in Open science projects.
+
+- How to build R packages for data analysis tasks.
+
+## Materials you will need
+
+We will use R. For this you will need to use these instructions:
+
+- Install R <https://posit.co/download/rstudio-desktop/>
+
+## How to contribute?
+
+Improvements and additions very welcome, and can be made through the GitHub repository.
+
+## Any questions?
+
+If you need any assistance installing the software or have any other questions about the training, please send an email to [andree.valle-campos\@lshtm.ac.uk](mailto:andree.valle-campos@lshtm.ac.uk){.email}
+
+## References
+
+- 
