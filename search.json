@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "You will learn how to complete an outbreak analytic task following a practical step-by-step guide to start your own journey."
+  },
+  {
+    "objectID": "about.html#what-will-you-learn",
+    "href": "about.html#what-will-you-learn",
+    "title": "About",
+    "section": "",
+    "text": "You will learn how to complete an outbreak analytic task following a practical step-by-step guide to start your own journey."
+  },
+  {
+    "objectID": "about.html#who-are-these-lessons-for",
+    "href": "about.html#who-are-these-lessons-for",
+    "title": "About",
+    "section": "Who are these lessons for?",
+    "text": "Who are these lessons for?\nWe thought about Lucia, Patricia, and Anya as learner personas in designing the contents of this training:\n\nLucia, a Field Epidemiologist in a National Health Agency that uses R for data cleaning, plotting and automated reports.\nPatricia, A PhD student learning to use R and analyse Outbreak data for her research project.\nAnya, a Professor who needs ready-to-use teaching material for her research and to pass on to students."
+  },
+  {
+    "objectID": "about.html#what-design-principles-we-follow-for-these-lessons",
+    "href": "about.html#what-design-principles-we-follow-for-these-lessons",
+    "title": "About",
+    "section": "What design principles we follow for these lessons?",
+    "text": "What design principles we follow for these lessons?\nThis section aims to capture the decisions about why a material is the way it is.\n\nA Tutorial documentation format\n\nEasy to consume in a self-paced manner,\nBe self-explanatory,\nShow common mistakes and misconceptions, and\nWrite assessment exercises with diagnostic power for those common misconceptions.\n\nAdd links to related Explanation documentation.\nShow the outbreak analytics pipeline approach connecting common policy questions with analysis tasks, data inputs and outputs.\nOrder the content to promote motivation: first the content that requires the less time to master and most useful once mastered. Aligned with the datasciencebox design principles.\nFacilitate the material maintainability. It should be cheaper to update than to replace it.\nUse the lesson folder structure from The Carpentries workbench, designed accordingly to their design principles.\nFacilitate a multimodal experience:\n\nCreate visuals to explain related concepts. Vision gathers the most information in the short term memory\nCreate slides or other teacher document (e.g. visual qmd files) to facilitate it’s reuse by other instructors for in-person workshops or online trainings.\nCreate interactive videos to create a sense of presence.\nAdd an interactive chatbox for effective one-to-one timely feedback.\nUse callout blocks for complementary info and refer to existing materials from the epidemiology and data science training community: reconlearn, appliedepi, graphnet, rstudio, stackoverflow, github issues and discussions."
+  },
+  {
+    "objectID": "about.html#what-is-not-included-in-this-material",
+    "href": "about.html#what-is-not-included-in-this-material",
+    "title": "About",
+    "section": "What is not included in this material?",
+    "text": "What is not included in this material?\nTopics that are out of the scope of these lessons include:\n\nHow to use Git and GitHub to contribute in Open science projects.\nHow to create a reproducible analysis project.\nHow to build R packages for data analysis tasks."
+  },
+  {
+    "objectID": "about.html#materials-you-will-need",
+    "href": "about.html#materials-you-will-need",
+    "title": "About",
+    "section": "Materials you will need",
+    "text": "Materials you will need\nWe will use R. For this you will need to use these instructions:\n\nInstall R https://posit.co/download/rstudio-desktop/"
+  },
+  {
+    "objectID": "about.html#how-to-contribute",
+    "href": "about.html#how-to-contribute",
+    "title": "About",
+    "section": "How to contribute?",
+    "text": "How to contribute?\nImprovements and additions very welcome, and can be made through the GitHub repository."
+  },
+  {
+    "objectID": "about.html#any-questions",
+    "href": "about.html#any-questions",
+    "title": "About",
+    "section": "Any questions?",
+    "text": "Any questions?\nIf you need any assistance installing the software or have any other questions about the training, please send an email to andree.valle-campos@lshtm.ac.uk"
+  },
+  {
+    "objectID": "about.html#references",
+    "href": "about.html#references",
+    "title": "About",
+    "section": "References",
+    "text": "References\n\nA lesson design process"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "lessons",
+    "section": "",
+    "text": "The goal of the lessons repository is to provide introductory self-paced tutorials to complete an outbreak analytic task using R packages."
+  },
+  {
+    "objectID": "index.html#more",
+    "href": "index.html#more",
+    "title": "lessons",
+    "section": "More",
+    "text": "More\nRefer to the About page for more details about the rationale behind the design of this site."
+  }
+]
