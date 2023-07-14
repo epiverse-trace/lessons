@@ -4,7 +4,7 @@ title: "About"
 
 ## What will you learn?
 
-- ...
+You will learn how to complete an outbreak analytic task following a practical step-by-step guide to start your own journey.
 
 ## Who are these lessons for?
 
