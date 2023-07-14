@@ -16,6 +16,8 @@ We thought about Lucia, Patricia, and Anya as learner personas in designing the 
 
 - [Anya](https://epiverse-trace.github.io/personas/anya-academica.html), a Professor who needs ready-to-use teaching material for her research and to pass on to students.
 
+<!--
+
 ## What design process we follow for these lessons?
 
 - Follow techtogether [design process](https://teachtogether.tech/en/index.html#s:process)
@@ -27,7 +29,7 @@ We thought about Lucia, Patricia, and Anya as learner personas in designing the 
         - Draft a concept map
         - Write the summative assessment
         - Write the formative assessments
-    - Plan learning experiences and instructor
+    - Write the learning experience
         - Create visuals to explain related concepts
             - vision gathers the most information in the short term memory
         - Use callout blocks for complementary info
@@ -39,38 +41,38 @@ We thought about Lucia, Patricia, and Anya as learner personas in designing the 
                 - stackoverflow
                 - epiverse-trace github issues
 
-The advantage of this approach is to capture the decision about why a material is the way it is.
+The intention is to capture the decision about why a material is the way it is.
+
+-->
 
 ## What design principles we follow for these lessons?
 
-- A [tutorial documentation](https://documentation.divio.com/tutorials/) format
-- Easy to consume in a self-paced manner, 
-- Be self-explanatory, 
-- Show common mistakes and common misconceptions, and 
-- Write practice exercises with diagnostic power for those common misconceptions.
-- Show common policy questions connecting data inputs, analysis tasks, and data outputs.
-- Show the Epiverse-TRACE pipeline approach
-- Order the content to [promote motivation](https://teachtogether.tech/en/index.html#s:motivation-authentic) 
-    - first the less complex (less time to master) and most useful once mastered
-- Facilitate the [material maintainability](https://teachtogether.tech/en/index.html#s:process-maintainability)
-    - it should be cheaper to update than to replace it, depending on four factors:
-        - good documentation of the course design
-        - easy for collaborators to collaborate technically (GitHub or GoogleDocs)
-        - will of people to collaborate (train people to have the tools to collab)
-        - usefulness for sharing it! (look at rstudio primers and carpentries)
-- Follow datasciencebox [five design principles](https://datasciencebox.org/01-design-principles.html)
-    - start with the cake
-    - cherish day one
-    - skip baby steps
-    - hide the veggies
-    - leverage the ecosystem
-- Follow [carpentries design principles](https://carpentries.org/blog/2020/08/lesson-template-design/#design-principles-for-the-next-iteration-of-the-carpentries-lesson-template)        
+This section aims to capture the decisions about why a material is the way it is.
+
+- A [Tutorial documentation](https://documentation.divio.com/tutorials/) format
+    - Easy to consume in a self-paced manner, 
+    - Be self-explanatory, 
+    - Show common mistakes and misconceptions, and 
+    - Write assessment exercises with diagnostic power for those common misconceptions.
+- Add links to related [Explanation](https://documentation.divio.com/explanation/) documentation.
+- Show the outbreak analytics pipeline approach connecting common policy questions with analysis tasks, data inputs and outputs.
+- Order the content to [promote motivation](https://teachtogether.tech/en/index.html#s:motivation-authentic): first the content that requires the less time to master and most useful once mastered. Aligned with the [datasciencebox design principles](https://datasciencebox.org/01-design-principles.html).
+- Facilitate the [material maintainability](https://teachtogether.tech/en/index.html#s:process-maintainability). It should be cheaper to update than to replace it.
+- Use the lesson folder structure from [The Carpentries workbench](https://github.com/carpentries/workbench-template-rmd), designed accordingly to their [design principles](https://carpentries.org/blog/2020/08/lesson-template-design/#design-principles-for-the-next-iteration-of-the-carpentries-lesson-template).
+- Facilitate a multimodal experience:
+    - Create visuals to explain related concepts. Vision gathers the most information in the short term memory
+    - Create slides or other teacher document (e.g. visual qmd files) to facilitate it's reuse by other instructors for in-person workshops or online trainings.
+    - Create interactive videos to create a sense of presence.
+    - Add an interactive chatbox for effective one-to-one timely feedback.
+    - Use callout blocks for complementary info and refer to existing materials from the epidemiology and data science training community: [reconlearn](https://www.reconlearn.org/), [appliedepi](https://community.appliedepi.org/), [graphnet](https://thegraphcourses.org/), [rstudio](https://posit.cloud/learn/primers), [stackoverflow](https://stackoverflow.com/search?q=epidemiology), github issues and discussions.
 
 ## What is not included in this material?
 
 Topics that are out of the scope of these lessons include:
 
 - How to use Git and GitHub to contribute in Open science projects.
+
+- How to create a reproducible analysis project.
 
 - How to build R packages for data analysis tasks.
 
@@ -90,4 +92,4 @@ If you need any assistance installing the software or have any other questions a
 
 ## References
 
-- 
+- [A lesson design process](https://teachtogether.tech/en/index.html#s:process)
