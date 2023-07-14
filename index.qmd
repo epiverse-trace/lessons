@@ -1,0 +1,9 @@
+---
+title: "lessons"
+---
+
+The goal of the `lessons` repository is to provide introductory self-paced tutorials to complete an outbreak analytic task using `R` packages.
+
+## More
+
+Refer to the [About](about.qmd) page for more details about the rationale behind the design of this site.

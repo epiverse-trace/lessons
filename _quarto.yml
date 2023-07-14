@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "lessons"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/epiverse-trace/lessons
+          - text: Report a Bug
+            url:  https://github.com/epiverse-trace/lessons/issues
+  sidebar:
+    style: "floating"
+    search: true
+  repo-url: https://github.com/epiverse-trace/lessons/
+  repo-actions: [edit, issue]
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
